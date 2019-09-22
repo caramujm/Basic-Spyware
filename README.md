@@ -2,7 +2,7 @@
 
 -> Written in:
 Python3
-
+Crack.py and WindowsAlert.py were transformed into .exe files.
 
 -> How the program works:
 The target are home PCs owned by people that are trying to get a paid software for free.
@@ -15,7 +15,7 @@ Note: WindowsAlert.exe in my case is in a subdir existed in the Spotify dir.
 
 -> My finally test:
 In the example the software that I used to be cracked was Spotify.
-To persuade the victims, I used pyinstaller to transform into an exe file.                                     
+To persuade the victims use pyinstaller to transform into an exe file.                                     
 https://datatofish.com/executable-pyinstaller/ >pyinstaller --onefile pythonScriptName.py                                                  
 Resource Hacker was used to give the .exe an icon.
 http://www.angusj.com/resourcehacker/
