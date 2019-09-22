@@ -26,9 +26,5 @@ https://imgur.com/a/UWdbBfS
 Uploaded the finish product (Crack.exe and WindowsAlert.exe into the Spotify dir and then compressed).
 
 
--> What can be improved:
-Add more docstrings and documentation.
-
-
 -> Why was created for:
 Learn more about python and windows. I tested on myself and was not created for bad purposes.
