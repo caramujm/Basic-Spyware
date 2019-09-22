@@ -23,6 +23,7 @@ http://www.angusj.com/resourcehacker/
 
 -> Virus Total:
 https://imgur.com/a/UWdbBfS
+Uploaded the finish product (Crack.exe and WindowsAlert.exe into the Spotify dir and then compressed).
 
 
 -> What can be improved:
