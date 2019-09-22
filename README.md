@@ -16,7 +16,7 @@ Note: WindowsAlert.exe in my case was in a subdir existed in the Spotify dir.
 -> My finally test:
 In the example the software that I used to be cracked was Spotify.
 To persuade the victims, I used pyinstaller to transform into an exe file.                                     
-https://datatofish.com/executable-pyinstaller/ >pyinstaller --onefile pythonScriptName.py
+https://datatofish.com/executable-pyinstaller/ >pyinstaller --onefile pythonScriptName.py                                                  
 Resource Hacker was used to give the .exe an icon.
 http://www.angusj.com/resourcehacker/
 
