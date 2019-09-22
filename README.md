@@ -1,7 +1,7 @@
 # Basic-Spyware
 
 -> Written in:
-Python3 spyware to use in a portable program to crack.
+Python3
 
 
 -> How the program works:
