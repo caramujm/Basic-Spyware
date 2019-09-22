@@ -10,7 +10,7 @@ The program is divided into two pieces the Crack.exe and the WindowsAlert.exe.
 Crack.exe will run, move the WindoesAlert.exe to a new dir, add to Registry to run the program in the Startup and add host entries to give a perception that actually worked (block ads).
 Crack.exe can be modified to combine with the targed software that you want to send to the victim.
 WindowsAlert.exe is a keylogger that will send to your email a .txt where all keyboard inputs of the victim will be written.
-Note: WindowsAlert.exe in my case was in a subdir existed in the Spotify dir.
+Note: WindowsAlert.exe in my case is in a subdir existed in the Spotify dir.
 
 
 -> My finally test:
