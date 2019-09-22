@@ -1,4 +1,4 @@
-# Basic-Spyware
+# Basic-Spyware (Keylogger)
 
 -> Written in:
 Python3
