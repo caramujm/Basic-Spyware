@@ -13,7 +13,7 @@ WindowsAlert.exe is a keylogger that will send to your email a .txt where all ke
 Note: WindowsAlert.exe in my case is in a subdir existed in the Spotify dir.
 
 
--> My finally test:
+-> Test:
 In the example the software that I used to be cracked was Spotify.
 To persuade the victims use pyinstaller to transform into an exe file.                                     
 https://datatofish.com/executable-pyinstaller/ >pyinstaller --onefile pythonScriptName.py                                                  
