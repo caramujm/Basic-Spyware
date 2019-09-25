@@ -5,10 +5,10 @@ Python3
 Crack.py and WindowsAlert.py were transformed into .exe files.
 
 -> How the program works:
-The target are home PCs owned by people that are trying to get a paid software for free.
+The targets are home PCs owned by people that are trying to get a paid software for free.
 The program is divided into two pieces the Crack.exe and the WindowsAlert.exe.
-Crack.exe will run, move the WindoesAlert.exe to a new dir, add to Registry to run the program in the Startup and add host entries to give a perception that actually worked (block ads).
-Crack.exe can be modified to combine with the targed software that you want to send to the victim.
+Crack.exe will run and move the WindoesAlert.exe to a new dir, add to Registry to run the program in the Startup and add host entries to give a perception that actually worked (block ads).
+Crack.exe can be modified to combine with the a software that you want to send to the victim.
 WindowsAlert.exe is a keylogger that will send to your email a .txt where all keyboard inputs of the victim will be written.
 Note: WindowsAlert.exe in my case is in a subdir existed in the Spotify dir.
 
