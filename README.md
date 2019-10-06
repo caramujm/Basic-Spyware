@@ -22,7 +22,7 @@ http://www.angusj.com/resourcehacker/
 
 
 -> Virus Total:
-![](https://prnt.sc/pfply7)                                                                                                           
+![Scan](https://prnt.sc/pfply7)                                                                                                           
 Uploaded the finish product (Crack.exe and WindowsAlert.exe into the Spotify dir and then compressed).
 
 
