@@ -124,7 +124,6 @@ def programGUI():
     def patch_complete():
         messagebox.showinfo("Spotify Cracker", "Spotify Cracked successfully!") # replaceable
 
-    w = Label(tk, text="Created by Suicide", anchor=CENTER)
     w.pack()
     
     b_bar = Button(tk,text='Patch',width=16,command=bar).place(relx=0.5, rely=0.5, anchor=CENTER)
